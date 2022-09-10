@@ -21,6 +21,8 @@ Está é uma grande seleção de ferramenta que julgo serem as melhores para te 
 
 <img src="assets/ferramentas.png">
 
+---
+
 > Todo desenvolvedor e designer que se prese além de conhecimento profundo na sua área necessita de boas ferramentas, afinal você prefere cortar uma árvore com um machado ou uma faca de mesa?
 > Baseado nisso aqui uma seleção de ferramentas para implementar na sua carreira:
 
@@ -50,6 +52,8 @@ Tendo a possibilidade de criar diversas páginas e subpaginas, usar templates pr
 <h2 align="center">Figma</h2>
 
 🌐 [Figma](https://www.figma.com/ui-design-tool/)<br>
+
+---
 
 <img src="assets/recursos.png">
 
