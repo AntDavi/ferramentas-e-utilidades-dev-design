@@ -45,7 +45,7 @@ Tendo a possibilidade de criar diversas páginas e subpaginas, usar templates pr
 
 🌐 [Notion](https://www.notion.so/product)<br>
 
-> ⚠️ Alguns recursos do Notion são pagos, a assinatura da ferramenta é bem acessivel, mas o plano gratuito já possui recursos sufientes para o uso pessoal.
+> ⚠️ Alguns recursos do Notion são pagos, a assinatura da ferramenta é bem acessivel, mas o plano gratuito já possui recursos suficientes para o uso pessoal.
 
 <h2 align="center">Figma</h2>
 
