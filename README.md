@@ -57,5 +57,5 @@ Tendo a possibilidade de criar diversas páginas e subpaginas, usar templates pr
 
 ## ☕ Seja um constribuidor desse projeto
 
-Quer fazer parte desse projeto e me ajudar expandindo e atualizando os conteudos? Clique [AQUI]()
+Quer fazer parte desse projeto e me ajudar expandindo e atualizando os conteudos? Clique [AQUI](pages/contribuicoes.md)
 
