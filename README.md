@@ -81,12 +81,12 @@ Aqui uma seleção com diversas utilidades.
 
 ### Índice
 
-[📌 Imagens](pages/utlities/imagens.md)
-[📌 Ilustrações](pages/utlities/ilustracoes.md.md)
-[📌 Ícones](pages/utlities/icones.md.md)
-[📌 Paletas de Cores](pages/utlities/paletas.md.md)
-[📌 Fontes](pages/utlities/fontes.md.md)
-[📌 Geradores](pages/utlities/geradores.md.md)
+[📌 Imagens](pages/utlities/imagens.md)<br>
+[📌 Ilustrações](pages/utlities/ilustracoes.md.md)<br>
+[📌 Ícones](pages/utlities/icones.md.md)<br>
+[📌 Paletas de Cores](pages/utlities/paletas.md.md)<br>
+[📌 Fontes](pages/utlities/fontes.md.md)<br>
+[📌 Geradores](pages/utlities/geradores.md.md)<br>
 
 ---
 
