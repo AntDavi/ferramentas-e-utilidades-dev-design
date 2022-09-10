@@ -1,12 +1,12 @@
 <h1 align="center">
 📚
 <br>
-Ferramentas e recursos para
+Ferramentas e utilidades para
 <br>
 DESENVOLVEDORES e DESIGNERS
 </h1>
 
-Sempre tive uma dúvida na hora de organizar a minha carreira como Desenvolvedor e UI Designer: <i>"Quais ferramentas, recursos, cursos eu devo escolher e fazer?"</i>
+Sempre tive uma dúvida na hora de organizar a minha carreira como Desenvolvedor e UI Designer: <i>"Quais ferramentas, recursos, cursos eu devo escolher e fazer? Quais desse podem agilizar meu trabalh?"</i>
 
 
 Com esse pensamento, resolvi criar este repósitorio para auxiliar os novos profissionais que também tem ou terão essa dúvida.
@@ -19,7 +19,7 @@ Está é uma grande seleção de ferramenta que julgo serem as melhores para te 
 
 ---
 
-<img src="assets/ferramentas.png">
+<img src="assets/banners/ferramentas.png">
 
 
 > Todo desenvolvedor e designer que se prese além de conhecimento profundo na sua área necessita de boas ferramentas, afinal você prefere cortar uma árvore com um machado ou uma faca de mesa?
@@ -74,9 +74,21 @@ Aliado ao Figma como ferramenta de prototipação e ao Notion como ferramenta de
 
 ---
 
-<img src="assets/recursos.png">
+<img src="assets/banners/utilidades.png">
 
-> Quando estiver desenvolvendo uma aplicação vocÊ irá se deparar com a necessidade de 
+> Quando estiver desenvolvendo uma aplicação você irá se deparar com a necessidade de obter alguns recursos, como ícones, iamgens ou alguma ferramenta de auxilio.
+Aqui uma seleção com diversas utilidades.
+
+### Índice
+
+[📌 Imagens](pages/utlities/imagens.md)
+[📌 Ilustrações](pages/utlities/ilustracoes.md.md)
+[📌 Ícones](pages/utlities/icones.md.md)
+[📌 Paletas de Cores](pages/utlities/paletas.md.md)
+[📌 Fontes](pages/utlities/fontes.md.md)
+[📌 Geradores](pages/utlities/geradores.md.md)
+
+---
 
 ## ☕ Seja um contribuidor desse projeto
 

@@ -1,4 +1,8 @@
 # Como contribuir?
+Este é um projeto inteiramente livre e gratuido que aceita contrinuições de todo aquele que queira ajudar atraves de pull requests no GitHub.
+
+
+
 Este é um projeto totalmente livre que aceita contribuições via pull requests no GitHub. Este documento tem a responsabilidade de alinhar as contribuições de acordo com os padrões estabelecidos no mesmo. Em caso de dúvidas, [abra uma issue](https://github.com/AntDavi/ferramentas-e-recursos-dev-design/issues/new).
 
 ## Primeiros passos
