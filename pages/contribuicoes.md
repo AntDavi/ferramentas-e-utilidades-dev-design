@@ -14,8 +14,8 @@ Um link precisa ser adicionado em sua forma mais autêntica, isso é:
 - Você não pode adicionar encurtadores de links
 - Você não pode adicionar redirecionadores (mesmo que da própria aplicação)
 - Você não pode adicionar links de afiliados (ou com parâmetros rastreadores)
+- Você deve adicionar um aviso caso aquela ferramenta ou recurso seja pago
 
 Para manter um padrão geral em todos os links, você deve:
 - Adicionar um link direto para o conteúdo
 - Adicionar um título condizente ao título do conteúdo
-- Adicionar uma bandeira (Português ou Inglês) para simbolizar o idioma do link
