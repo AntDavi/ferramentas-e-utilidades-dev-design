@@ -87,6 +87,7 @@ Aqui uma seleção com diversas utilidades.
 [📌 Paletas de Cores](pages/utlities/paletas.md.md)<br>
 [📌 Fontes](pages/utlities/fontes.md.md)<br>
 [📌 Geradores](pages/utlities/geradores.md.md)<br>
+[📌 Repositorios Utéis](pages/utlities/geradores.md.md)<br>
 
 ---
 
