@@ -3,12 +3,19 @@
 ### 📚 Índice
 
 [📌 Imagens](imagens.md)
+
 [📌 Ilustrações](ilustracoes.md)
-[📌 Ícones](pages/utilities/)
-[📌 Paletas de Cores](pages/utilities/)
-[📌 Fontes](pages/utilities/)
-[📌 Geradores](pages/utilities/)
-[📌 Repositorios Utéis](pages/utilities/)
+
+[📌 Ícones]()
+
+[📌 Paletas de Cores]()
+
+[📌 Fontes]()
+
+[📌 Geradores]()
+
+[📌 Repositorios Utéis]()
+
 
 <img src="../../assets/banners/imagens.png">
 
