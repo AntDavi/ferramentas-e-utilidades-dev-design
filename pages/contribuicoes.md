@@ -18,5 +18,5 @@ Um link precisa ser adicionado em sua forma mais autêntica, isso é:
 - Você não pode adicionar links de afiliados (ou com parâmetros rastreadores)
 - Você deve adicionar um aviso caso aquela ferramenta ou recurso seja pago
 
-<br>[🔙 Voltar ao início](../../README.md)<br>
+<br>[🔙 Voltar ao início](../README.md)
 
