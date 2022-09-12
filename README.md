@@ -79,15 +79,15 @@ Aliado ao Figma como ferramenta de prototipação e ao Notion como ferramenta de
 > Quando estiver desenvolvendo uma aplicação você irá se deparar com a necessidade de obter alguns recursos, como ícones, iamgens ou alguma ferramenta de auxilio.
 > Aqui uma seleção com diversas utilidades.
 
-### Índice
+### 📚 Índice
 
-[📌 Imagens](pages/utilidadeds.md)<br>
-[📌 Ilustrações](pages/utilidadeds.md)<br>
-[📌 Ícones](pages/utilidadeds.md)<br>
-[📌 Paletas de Cores](pages/utilidadeds.md)<br>
-[📌 Fontes](pages/utilidadeds.md)<br>
-[📌 Geradores](pages/utilidadeds.md)<br>
-[📌 Repositorios Utéis](pages/utilidadeds.md)<br>
+[📌 Imagens](pages/utilities/imagens.md)<br>
+[📌 Ilustrações](pages/utilities/)<br>
+[📌 Ícones](pages/utilities/)<br>
+[📌 Paletas de Cores](pages/utilities/)<br>
+[📌 Fontes](pages/utilities/)<br>
+[📌 Geradores](pages/utilities/)<br>
+[📌 Repositorios Utéis](pages/utilities/)<br>
 
 ---
 

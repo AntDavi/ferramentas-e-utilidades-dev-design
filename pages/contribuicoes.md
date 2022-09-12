@@ -1,5 +1,5 @@
 # Como contribuir?
-Este é um projeto inteiramente livre e gratuido que aceita contrinuições de todo aquele que queira ajudar atraves de pull requests no GitHub.
+Este é um projeto inteiramente livre e gratuido que aceita constribuições de todo aquele que queira ajudar atraves de pull requests no GitHub.
 
 ## Primeiros passos
 1. Fork este repositório.
@@ -18,5 +18,5 @@ Um link precisa ser adicionado em sua forma mais autêntica, isso é:
 - Você não pode adicionar links de afiliados (ou com parâmetros rastreadores)
 - Você deve adicionar um aviso caso aquela ferramenta ou recurso seja pago
 
-<br>[🔙 Voltar ao início](../README.md)<br>
+<br>[🔙 Voltar ao início](../../README.md)<br>
 
