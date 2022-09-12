@@ -2,6 +2,8 @@
 
 <img src="../assets/banners/ferramentas.png">
 
+---
+
 <h2 align="center">Visual Studio Code</h2>
 
 <img src="../assets/images/vscode.png">
@@ -13,6 +15,7 @@ Nenhuma aplicação é pequena ou grande demais para esse editor e seus recursos
 
 > Uma seleção de algumas extensões para o seu Visual Studio Code [AQUI](pages/extensoes.md)
 
+---
 
 <h2 align="center">Notion</h2>
 
@@ -24,6 +27,8 @@ Tendo a possibilidade de criar diversas páginas e subpaginas, usar templates pr
 🌐 [Notion](https://www.notion.so/product)<br>
 
 > ⚠️ Alguns recursos do Notion são pagos mas o plano gratuito já possui recursos suficientes para o uso pessoal.
+
+---
 
 <h2 align="center">Figma</h2>
 
@@ -38,6 +43,7 @@ Assim o Figma surge como a melhor ferramenta de prototipação de interface, ali
 
 🌐 [Figma](https://www.figma.com/ui-design-tool/)<br>
 
+---
 
 <h2 align="center">FigJam</h2>
 
@@ -48,3 +54,5 @@ Aliado ao Figma como ferramenta de prototipação e ao Notion como ferramenta de
 > ⚠️ Alguns recursos do FigJam são pagos mas o plano gratuito já possui recursos suficientes para o uso pessoal.
 
 🌐 [Figma](https://www.figma.com/ui-design-tool/)<br>
+
+---
