@@ -1,3 +1,5 @@
+<br>[🔙 Voltar ao início](../README.md)<br>
+
 <img src="../assets/banners/extensoes.png">
 
 > O Visual Studio Code é o mais poderoso editor de código gratuito que todo desenvolvedor tem a sua disposição.
