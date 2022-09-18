@@ -6,15 +6,13 @@
 
 [📌 Ilustrações](ilustracoes.md)
 
-[📌 Ícones](/)
+[📌 Ícones](icones.md)
 
-[📌 Paletas de Cores](/)
+[📌 Paletas de Cores](paletas.md)
 
-[📌 Fontes](/)
+[📌 Geradores](geradores.md)
 
-[📌 Geradores](/)
-
-[📌 Repositorios Utéis](/)
+[📌 Repositorios Utéis](repositorios.md)
 
 <img src="../../assets/banners/ilustracoes.png">
 
@@ -26,6 +24,7 @@
 | Link      | Observação | Link | Observações |
 | ---------- | :------: | ------- | :-------:|
 | [Abstrakt](https://www.abstrakt.design/) | ✅ | [Freepik](https://br.freepik.com/) | ⚠️
+| [Canva](https://www.canva.com/) |  ✅ | [UnDraw](https://undraw.co/) | ✅
 | [Canva](https://www.canva.com/) |  ✅ | [UnDraw](https://undraw.co/) | ✅
 
 

@@ -37,11 +37,10 @@ Está é uma grande seleção de ferramenta que julgo serem as melhores para te 
 
 [📌 Imagens](pages/utilities/imagens.md)<br>
 [📌 Ilustrações](pages/utilities/ilustracoes.md)<br>
-[📌 Ícones](pages/utilities/)<br>
-[📌 Paletas de Cores](pages/utilities/)<br>
-[📌 Fontes](pages/utilities/)<br>
-[📌 Geradores](pages/utilities/)<br>
-[📌 Repositorios Utéis](pages/utilities/)<br>
+[📌 Ícones](pages/utilities/icones.md)<br>
+[📌 Paletas de Cores](pages/utilities/paletas.md)<br>
+[📌 Geradores](pages/utilities/geradores.md)<br>
+[📌 Repositorios Utéis](pages/utilities/repositorios.md)<br>
 
 ---
 
