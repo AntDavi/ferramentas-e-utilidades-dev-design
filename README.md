@@ -46,5 +46,5 @@ Está é uma grande seleção de ferramenta que julgo serem as melhores para te 
 
 ## ☕ Seja um contribuidor desse projeto
 
-Quer fazer parte desse projeto e me ajudar expandindo e atualizando os conteudos? Clique [AQUI](pages/contribuicoes.md)
+Quer fazer parte desse projeto e me ajudar expandindo e atualizando os conteúdos? Clique [AQUI](pages/contribuicoes.md)
 

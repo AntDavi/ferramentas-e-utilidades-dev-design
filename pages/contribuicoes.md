@@ -13,10 +13,11 @@ Este é um projeto inteiramente livre e gratuido que aceita constribuições de 
 
 Um link precisa ser adicionado em sua forma mais autêntica, isso é:
 
-- Você não pode adicionar encurtadores de links
-- Você não pode adicionar redirecionadores (mesmo que da própria aplicação)
-- Você não pode adicionar links de afiliados (ou com parâmetros rastreadores)
-- Você deve adicionar um aviso caso aquela ferramenta ou recurso seja pago
+- Você não pode adicionar encurtadores de links.
+- Você não pode adicionar redirecionadores (mesmo que da própria aplicação).
+- Você não pode adicionar links de afiliados (ou com parâmetros rastreadores).
+- Você deve adicionar um aviso caso aquela ferramenta ou recurso seja pago.
+- Siga sempre o padrão prévio de cada página.
 
 <br>[🔙 Voltar ao início](../README.md)
 
