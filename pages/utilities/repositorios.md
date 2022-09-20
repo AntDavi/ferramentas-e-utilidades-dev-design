@@ -12,11 +12,11 @@
 
 [📌 Geradores](geradores.md)
 
-[📌 Repositorios Utéis](repositorios.md)
+[📌 Repositórios Utéis](repositorios.md)
 
 <img src="../../assets/banners/repositorios.png">
 
-> Repositorios utéis para todos os desenvolvedores
+> Repositórios utéis para todos os desenvolvedores
 
 ---
 

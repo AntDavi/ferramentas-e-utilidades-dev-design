@@ -40,7 +40,7 @@ Está é uma grande seleção de ferramenta que julgo serem as melhores para te 
 [📌 Ícones](pages/utilities/icones.md)<br>
 [📌 Paletas de Cores](pages/utilities/paletas.md)<br>
 [📌 Geradores](pages/utilities/geradores.md)<br>
-[📌 Repositorios Utéis](pages/utilities/repositorios.md)<br>
+[📌 Repositórios Utéis](pages/utilities/repositorios.md)<br>
 
 ---
 
