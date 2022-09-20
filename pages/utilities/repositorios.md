@@ -14,15 +14,12 @@
 
 [📌 Repositorios Utéis](repositorios.md)
 
-<img src="../../assets/banners/ilustracoes.png">
+<img src="../../assets/banners/repositorios.png">
 
-> ✅ Totalmente Gratuito
-> ⚠️ Parcialmente gratuito
+> Repositorios utéis para todos os desenvolvedores
 
 ---
 
-| Link      | Observação | Link | Observações |
-| ---------- | :------: | ------- | :-------:|
-| [Abstrakt](https://www.abstrakt.design/) | ✅ | [Freepik](https://br.freepik.com/) | ⚠️
-| [Canva](https://www.canva.com/) |  ✅ | [UnDraw](https://undraw.co/) | ✅
-| [Canva](https://www.canva.com/) |  ✅ | [UnDraw](https://undraw.co/) | ✅
+| Link      | Descrição | 
+| ---------- | :------: | 
+| [roadmap.sh](https://github.com/kamranahmedse/developer-roadmap) | Quando estiver em dúvida sobre qual o proximo passo dar na sua carreira como desenvolvedor confira esse roadmap

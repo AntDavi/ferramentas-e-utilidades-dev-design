@@ -14,7 +14,7 @@
 
 [📌 Repositorios Utéis](repositorios.md)
 
-<img src="../../assets/banners/ilustracoes.png">
+<img src="../../assets/banners/paleta.png">
 
 > ✅ Totalmente Gratuito
 > ⚠️ Parcialmente gratuito
@@ -23,6 +23,5 @@
 
 | Link      | Observação | Link | Observações |
 | ---------- | :------: | ------- | :-------:|
-| [Abstrakt](https://www.abstrakt.design/) | ✅ | [Freepik](https://br.freepik.com/) | ⚠️
-| [Canva](https://www.canva.com/) |  ✅ | [UnDraw](https://undraw.co/) | ✅
-| [Canva](https://www.canva.com/) |  ✅ | [UnDraw](https://undraw.co/) | ✅
+| [Adobe Color Wheel](https://color.adobe.com/pt/create/color-wheel) | ✅ | [Coolors](https://coolors.co/b4b8ab-153243-284b63-f4f9e9-eef0eb) | ⚠️
+| [Scale](https://hihayk.github.io/scale/#4/6/50/80/-51/67/20/14/1D9A6C/29/154/108/white) |  ✅ | [Colormind](http://colormind.io/) | ✅

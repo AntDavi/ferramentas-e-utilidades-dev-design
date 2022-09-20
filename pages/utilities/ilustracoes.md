@@ -24,7 +24,8 @@
 | Link      | Observação | Link | Observações |
 | ---------- | :------: | ------- | :-------:|
 | [Abstrakt](https://www.abstrakt.design/) | ✅ | [Freepik](https://br.freepik.com/) | ⚠️
-| [Canva](https://www.canva.com/) |  ✅ | [UnDraw](https://undraw.co/) | ✅
-| [Canva](https://www.canva.com/) |  ✅ | [UnDraw](https://undraw.co/) | ✅
+| [Canva](https://www.canva.com/) |  ✅ | [Blush](https://blush.design/pt) | ✅
+| [Free Illustrations](https://freeillustrations.xyz/) |  ✅ | [UnDraw](https://undraw.co/) | ✅
+| [Pixeltrue](https://www.pixeltrue.com/packs) |  ⚠️ | [Ouch](https://icons8.com.br/illustrations) | ⚠️
 
 

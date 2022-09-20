@@ -14,7 +14,7 @@
 
 [📌 Repositorios Utéis](repositorios.md)
 
-<img src="../../assets/banners/ilustracoes.png">
+<img src="../../assets/banners/icones.png">
 
 > ✅ Totalmente Gratuito
 > ⚠️ Parcialmente gratuito
@@ -23,6 +23,6 @@
 
 | Link      | Observação | Link | Observações |
 | ---------- | :------: | ------- | :-------:|
-| [Abstrakt](https://www.abstrakt.design/) | ✅ | [Freepik](https://br.freepik.com/) | ⚠️
-| [Canva](https://www.canva.com/) |  ✅ | [UnDraw](https://undraw.co/) | ✅
-| [Canva](https://www.canva.com/) |  ✅ | [UnDraw](https://undraw.co/) | ✅
+| [Feather](https://feathericons.com/) | ✅ | [Eva Icons](https://akveo.github.io/eva-icons/#/) | ✅
+| [Heroicons](https://heroicons.dev/) |  ✅ | [Lordicon](https://lordicon.com/) | ⚠️
+| [Remix Icon](https://remixicon.com/) |  ✅ | 
