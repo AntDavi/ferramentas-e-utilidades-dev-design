@@ -13,7 +13,7 @@ Nenhuma aplicação é pequena ou grande demais para esse editor e seus recursos
 
 🌐 [Visual Studio Code](https://code.visualstudio.com/)<br>
 
-> Uma seleção de algumas extensões para o seu Visual Studio Code [AQUI](pages/extensoes.md)
+> Uma seleção de algumas extensões para o seu Visual Studio Code [AQUI](extensoes.md)
 
 ---
 
@@ -37,7 +37,7 @@ Tendo a possibilidade de criar diversas páginas e subpaginas, usar templates pr
 Antes de começar a codar uma aplicação, deve-se haver um planejamento para que surpresas não aconteçam durante o processo e para que o cliente e o programador tenham conhecimento do que irá e como irá acontecer.
 Assim o Figma surge como a melhor ferramenta de prototipação de interface, aliada com diversos plugins e uma comunidade ativa, o Figma ganha destaque em relação as outras ferramentas do tipo.
 
-> Uma seleção de alguns plugins para o seu Figma [AQUI](pages/plugins.md)
+> Uma seleção de alguns plugins para o seu Figma [AQUI](plugins.md)
 
 > ⚠️ Alguns recursos do Figma são pagos mas o plano gratuito já possui recursos suficientes para o uso pessoal.
 
